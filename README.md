@@ -45,6 +45,10 @@ Check out the live version of this project [here](https://lightoftwelve.github.i
 ## Credits
 This project was independently developed by the following developers with their respective contact information:
 
+<b>Stanley Opare</b>:
+- Github: [@stanop09](https://github.com/StanOp09)
+- LinkedIn: [@Stanley Opare](https://www.linkedin.com/in/stanleyopare)
+
 <b>Victoria Alawi</b>:
 - Github: [@lightoftwelve](https://github.com/lightoftwelve)
 - LinkedIn: [@Victoria Alawi](https://www.linkedin.com/in/victoria-alawi-872984250/)
@@ -58,9 +62,6 @@ This project was independently developed by the following developers with their 
 - Github: [@landdoraine](https://github.com/Landdoraine)
 - LinkedIn: [@Wen Ding Chen](https://www.linkedin.com/in/wen-ding-chen-22a9a6283/)
 
-<b>Stanley Opare</b>:
-- Github: [@stanop09](https://github.com/StanOp09)
-- LinkedIn: [@Stanley Opare](https://www.linkedin.com/in/stanleyopare)
 
 ## Acknowledgements
 We sincerely thank our teacher, Sean Roshan, and TA, Serena Guo, for their invaluable guidance and support during our course, as well as their help correcting FOUC concerns on our bucketlist.html file.
